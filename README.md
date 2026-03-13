@@ -7,7 +7,7 @@ L’objectif du projet est d’étudier comment les modèles modernes de vision 
 ---
 
 # Présentation du projet
-
+<img width="1213" height="670" alt="Image" src="https://github.com/user-attachments/assets/dddb9b76-04b2-4d92-aaf6-557aad513806" />
 La **reconnaissance des émotions faciales (Facial Emotion Recognition – FER)** est un domaine important de la vision par ordinateur avec de nombreuses applications :
 
 - interaction humain–machine  
@@ -56,7 +56,7 @@ Caractéristiques :
 - visages pré-alignés  
 
 Le dataset présente un **déséquilibre important entre les classes**, ce qui rend la tâche de classification plus complexe.
-
+<img width="1215" height="693" alt="Image" src="https://github.com/user-attachments/assets/0995c28a-7e48-4877-8d23-56930375ecf9" />
 ---
 
 # Pipeline du projet
